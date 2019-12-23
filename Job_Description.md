@@ -1,7 +1,7 @@
 
 
-# Programming and AI TUITOR / INSTRUCTOR 
-We are looking for a programming and AI  TUITOR / INSTRUCTOR who is passionate about mentoring adult students to help them to break into the tech career. Daily responsibilities include
+# Programming and AI TUTOR / INSTRUCTOR 
+We are looking for a programming and AI  TUTOR / INSTRUCTOR who is passionate about mentoring adult students to help them to break into the tech career. Daily responsibilities include
 giving lectures regarding programming topics , tech supports for the students and code reviews for the students' project.
 
 Requirements:
